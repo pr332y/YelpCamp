@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://cdn.hipwallpaper.com/i/53/40/TIi0Wv.jpg")
+}
+
+h1{
+    color: black;
+}
+.card{
+    padding: 0;
+}
+.card .text-right{
+    padding: 9px;
+}
+.jumbotron{
+    margin-top: 5%;
+}
+.delete-form{
+    display: inline;
+}
+.alert{
+    margin-top: 5px;
+}
+h2{
+    color: white;
+    margin-top: 10px;
+}
